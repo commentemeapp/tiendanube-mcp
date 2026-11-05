@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.commentemeapp/tiendanube-mcp",
+  "title": "Tiendanube MCP",
+  "description": "Live Tiendanube / Nuvemshop docs, Admin API endpoints, OAuth scopes, webhook events and scaffolds",
+  "websiteUrl": "https://github.com/commentemeapp/tiendanube-mcp#readme",
+  "repository": {
+    "url": "https://github.com/commentemeapp/tiendanube-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "@commenteme/tiendanube-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "npx",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

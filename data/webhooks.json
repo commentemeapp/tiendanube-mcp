@@ -1,0 +1,237 @@
+{
+  "consulted": "2026-11-05",
+  "source": "https://nuvemshop.dev/en-US/api/resources/2025-03/webhook.md",
+  "events": [
+    {
+      "event": "app/uninstalled",
+      "group": "app"
+    },
+    {
+      "event": "app/suspended",
+      "group": "app"
+    },
+    {
+      "event": "app/resumed",
+      "group": "app"
+    },
+    {
+      "event": "app_subscription/updated",
+      "group": "app_subscription"
+    },
+    {
+      "event": "category/created",
+      "group": "category"
+    },
+    {
+      "event": "category/updated",
+      "group": "category"
+    },
+    {
+      "event": "category/deleted",
+      "group": "category"
+    },
+    {
+      "event": "charge/created",
+      "group": "charge"
+    },
+    {
+      "event": "charge/paid",
+      "group": "charge"
+    },
+    {
+      "event": "charge/failed",
+      "group": "charge"
+    },
+    {
+      "event": "customer/created",
+      "group": "customer"
+    },
+    {
+      "event": "customer/updated",
+      "group": "customer"
+    },
+    {
+      "event": "customer/deleted",
+      "group": "customer"
+    },
+    {
+      "event": "order/created",
+      "group": "order"
+    },
+    {
+      "event": "order/updated",
+      "group": "order"
+    },
+    {
+      "event": "order/paid",
+      "group": "order"
+    },
+    {
+      "event": "order/packed",
+      "group": "order"
+    },
+    {
+      "event": "order/fulfilled",
+      "group": "order"
+    },
+    {
+      "event": "order/cancelled",
+      "group": "order"
+    },
+    {
+      "event": "order/edited",
+      "group": "order"
+    },
+    {
+      "event": "order/pending",
+      "group": "order"
+    },
+    {
+      "event": "order/voided",
+      "group": "order"
+    },
+    {
+      "event": "order/unpacked",
+      "group": "order"
+    },
+    {
+      "event": "order/in_preparation",
+      "group": "order"
+    },
+    {
+      "event": "order/custom_fields_updated",
+      "group": "order"
+    },
+    {
+      "event": "order/in_fraud_analysis",
+      "group": "order"
+    },
+    {
+      "event": "product/created",
+      "group": "product"
+    },
+    {
+      "event": "product/updated",
+      "group": "product"
+    },
+    {
+      "event": "product/deleted",
+      "group": "product"
+    },
+    {
+      "event": "product_variant/custom_fields_updated",
+      "group": "product_variant"
+    },
+    {
+      "event": "domain/updated",
+      "group": "domain"
+    },
+    {
+      "event": "order_custom_field/created",
+      "group": "order_custom_field"
+    },
+    {
+      "event": "order_custom_field/updated",
+      "group": "order_custom_field"
+    },
+    {
+      "event": "order_custom_field/deleted",
+      "group": "order_custom_field"
+    },
+    {
+      "event": "product_variant_custom_field/created",
+      "group": "product_variant_custom_field"
+    },
+    {
+      "event": "product_variant_custom_field/updated",
+      "group": "product_variant_custom_field"
+    },
+    {
+      "event": "product_variant_custom_field/deleted",
+      "group": "product_variant_custom_field"
+    },
+    {
+      "event": "theme/updated",
+      "group": "theme"
+    },
+    {
+      "event": "navigation/updated",
+      "group": "navigation"
+    },
+    {
+      "event": "subscription/updated",
+      "group": "subscription"
+    },
+    {
+      "event": "fulfillment/updated",
+      "group": "fulfillment"
+    },
+    {
+      "event": "fulfillment_order/status_updated",
+      "group": "fulfillment_order"
+    },
+    {
+      "event": "fulfillment_order/label_status_updated",
+      "group": "fulfillment_order"
+    },
+    {
+      "event": "fulfillment_order/label_created",
+      "group": "fulfillment_order"
+    },
+    {
+      "event": "fulfillment_order/label_deleted",
+      "group": "fulfillment_order"
+    },
+    {
+      "event": "fulfillment_order/tracking_event_created",
+      "group": "fulfillment_order"
+    },
+    {
+      "event": "fulfillment_order/tracking_event_updated",
+      "group": "fulfillment_order"
+    },
+    {
+      "event": "fulfillment_order/tracking_event_deleted",
+      "group": "fulfillment_order"
+    },
+    {
+      "event": "location/created",
+      "group": "location"
+    },
+    {
+      "event": "location/updated",
+      "group": "location"
+    },
+    {
+      "event": "location/deleted",
+      "group": "location"
+    },
+    {
+      "event": "checkout/created",
+      "group": "checkout"
+    },
+    {
+      "event": "checkout/updated",
+      "group": "checkout"
+    },
+    {
+      "event": "coupon/deleted",
+      "group": "coupon"
+    },
+    {
+      "event": "app/store_redact",
+      "group": "privacy",
+      "required": true
+    },
+    {
+      "event": "customer/redact",
+      "group": "privacy",
+      "required": true
+    },
+    {
+      "event": "customers/data_request",
+      "group": "privacy",
+      "required": true
+    }
+  ]
+}

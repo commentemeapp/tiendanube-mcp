@@ -1,0 +1,227 @@
+{
+  "consulted": "2026-11-05",
+  "source": "https://nuvemshop.dev/en-US/api/authentication.md",
+  "scopes": [
+    {
+      "scopes": [
+        "read_content",
+        "write_content"
+      ],
+      "resources": [
+        {
+          "name": "Page"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_products",
+        "write_products"
+      ],
+      "resources": [
+        {
+          "name": "Product",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+        },
+        {
+          "name": "Product Variant",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+        },
+        {
+          "name": "Product Image",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-image.md"
+        },
+        {
+          "name": "Category",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/category.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_customers",
+        "write_customers"
+      ],
+      "resources": [
+        {
+          "name": "Customer",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customer.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_orders",
+        "write_orders"
+      ],
+      "resources": [
+        {
+          "name": "Order",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_fulfillment_orders",
+        "write_fulfillment_orders"
+      ],
+      "resources": [
+        {
+          "name": "Fulfillment Order",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_draft_orders",
+        "write_draft_orders"
+      ],
+      "resources": [
+        {
+          "name": "Draft Order",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/draft-order.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_locations",
+        "write_locations"
+      ],
+      "resources": [
+        {
+          "name": "Location",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_shipping_quotation",
+        "write_shipping_quotation"
+      ],
+      "resources": [
+        {
+          "name": "Shipping Quotations",
+          "url": "https://nuvemshop.dev/en-US/api/resources/unstable/cart.md#shipping-quotations"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_coupons",
+        "write_coupons"
+      ],
+      "resources": [
+        {
+          "name": "Coupon"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_discounts",
+        "write_discounts"
+      ],
+      "resources": [
+        {
+          "name": "Promotion",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/discounts.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "write_scripts"
+      ],
+      "resources": [
+        {
+          "name": "Script"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_shipping",
+        "write_shipping"
+      ],
+      "resources": [
+        {
+          "name": "Shipping Carrier",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_payments",
+        "write_payments"
+      ],
+      "resources": [
+        {
+          "name": "Payment Provider",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/payment-provider.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_payment_options"
+      ],
+      "resources": [
+        {
+          "name": "Business Rules",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/business-rules.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_email_templates",
+        "write_email_templates"
+      ],
+      "resources": [
+        {
+          "name": "Email Templates",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/email-templates.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "read_subscriptions",
+        "write_subscriptions"
+      ],
+      "resources": [
+        {
+          "name": "Billing subscriptions",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "write_charges"
+      ],
+      "resources": [
+        {
+          "name": "Billing charges",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+        }
+      ]
+    },
+    {
+      "scopes": [
+        "write_plans"
+      ],
+      "resources": [
+        {
+          "name": "Billing plans",
+          "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+        }
+      ]
+    }
+  ]
+}

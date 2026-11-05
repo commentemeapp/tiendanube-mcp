@@ -1,0 +1,1524 @@
+{
+  "version": "2025-03",
+  "consulted": "2026-11-05",
+  "resources": [
+    {
+      "resource": "Changelog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/CHANGELOG.md"
+    },
+    {
+      "resource": "Abandoned Checkout",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/abandoned-checkout.md"
+    },
+    {
+      "resource": "Billing",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+    },
+    {
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "resource": "Business Rules",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/business-rules.md"
+    },
+    {
+      "resource": "Cart",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/cart.md"
+    },
+    {
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "resource": "Category",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/category.md"
+    },
+    {
+      "resource": "Checkout",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/checkout.md"
+    },
+    {
+      "resource": "Checkout SDK",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/checkout_sdk.md"
+    },
+    {
+      "resource": "Coupons",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/coupon.md"
+    },
+    {
+      "resource": "Customer",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customer.md"
+    },
+    {
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "resource": "Discount",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/discounts.md"
+    },
+    {
+      "resource": "Disputes",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/disputes.md"
+    },
+    {
+      "resource": "Draft Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/draft-order.md"
+    },
+    {
+      "resource": "Email Templates",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/email-templates.md"
+    },
+    {
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "resource": "Kit",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/kit.md"
+    },
+    {
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "resource": "Metafields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/metafields.md"
+    },
+    {
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "resource": "Pages",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/page.md"
+    },
+    {
+      "resource": "Payment Option",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/payment-option.md"
+    },
+    {
+      "resource": "Payment Provider",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/payment-provider.md"
+    },
+    {
+      "resource": "Product Image",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-image.md"
+    },
+    {
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "resource": "Scripts",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/script.md"
+    },
+    {
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "resource": "Store",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/store.md"
+    },
+    {
+      "resource": "Transaction",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/transaction.md"
+    },
+    {
+      "resource": "Webhook",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/webhook.md"
+    }
+  ],
+  "endpoints": [
+    {
+      "method": "GET",
+      "path": "/checkouts",
+      "resource": "Abandoned Checkout",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/abandoned-checkout.md"
+    },
+    {
+      "method": "GET",
+      "path": "/checkouts/{checkout_id}",
+      "resource": "Abandoned Checkout",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/abandoned-checkout.md"
+    },
+    {
+      "method": "POST",
+      "path": "/checkouts/{cart_id}/coupon",
+      "resource": "Abandoned Checkout",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/abandoned-checkout.md"
+    },
+    {
+      "method": "POST",
+      "path": "/plans",
+      "resource": "Billing",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/plans/{plan_id}",
+      "resource": "Billing",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/plans/{plan_id}",
+      "resource": "Billing",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+    },
+    {
+      "method": "GET",
+      "path": "/concepts/{concept_code}/services/{service_id}/subscriptions",
+      "resource": "Billing",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/concepts/{concept_code}/services/{service_id}/subscriptions",
+      "resource": "Billing",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+    },
+    {
+      "method": "POST",
+      "path": "/services/{service_id}/charges",
+      "resource": "Billing",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/billing.md"
+    },
+    {
+      "method": "GET",
+      "path": "/blogs",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "GET",
+      "path": "/blogs/{blog_id}/posts",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "GET",
+      "path": "/blogs/{blog_id}/posts/{post_id}",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "POST",
+      "path": "/blogs/{blog_id}/posts",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/blogs/{blog_id}/posts/{post_id}",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/blogs/{blog_id}/posts/{post_id}",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/blogs/{blog_id}/posts/{post_id}/publish",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/blogs/{blog_id}/posts/{post_id}/unpublish",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "POST",
+      "path": "/blogs/{blog_id}/posts/media",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "POST",
+      "path": "/blogs/{blog_id}/posts/thumbnail",
+      "resource": "Blog",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/blog.md"
+    },
+    {
+      "method": "GET",
+      "path": "/payment_providers/options",
+      "resource": "Business Rules",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/business-rules.md"
+    },
+    {
+      "method": "GET",
+      "path": "/shipping_carriers/options",
+      "resource": "Business Rules",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/business-rules.md"
+    },
+    {
+      "method": "GET",
+      "path": "/carts/{id}",
+      "resource": "Cart",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/cart.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/carts/{id}/line-items/{id}",
+      "resource": "Cart",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/cart.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/carts/{id}/coupons/{id}",
+      "resource": "Cart",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/cart.md"
+    },
+    {
+      "method": "POST",
+      "path": "/categories/custom-fields",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/categories/custom-fields",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/categories/custom-fields/{id}",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/categories/custom-fields/e0a56bef-91d0-45f7-a70d-6b9264c85e8c",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/categories/{id}/custom-fields/values",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/categories/{id}/custom-fields",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/categories/custom-fields/{id}/owners",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/categories/custom-fields/e0a56bef-91d0-45f7-a70d-6b9264c85e8c/owners",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/categories/custom-fields/{id}",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/categories/custom-fields/e0a56bef-91d0-45f7-a70d-6b9264c85e8c",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/categories/custom-fields/{id}",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/categories/custom-fields/e0a56bef-91d0-45f7-a70d-6b9264c85e8c",
+      "resource": "Category Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/categories/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/categories",
+      "resource": "Category",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/category.md"
+    },
+    {
+      "method": "GET",
+      "path": "/categories/{id}",
+      "resource": "Category",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/category.md"
+    },
+    {
+      "method": "POST",
+      "path": "/categories",
+      "resource": "Category",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/category.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/categories/{id}",
+      "resource": "Category",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/category.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/categories/{id}",
+      "resource": "Category",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/category.md"
+    },
+    {
+      "method": "GET",
+      "path": "/coupons",
+      "resource": "Coupons",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/coupon.md"
+    },
+    {
+      "method": "GET",
+      "path": "/coupons/{id}",
+      "resource": "Coupons",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/coupon.md"
+    },
+    {
+      "method": "POST",
+      "path": "/coupons",
+      "resource": "Coupons",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/coupon.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/coupons/{id}",
+      "resource": "Coupons",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/coupon.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/coupons/{id}",
+      "resource": "Coupons",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/coupon.md"
+    },
+    {
+      "method": "GET",
+      "path": "/customers",
+      "resource": "Customer",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customer.md"
+    },
+    {
+      "method": "GET",
+      "path": "/customers/{id}",
+      "resource": "Customer",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customer.md"
+    },
+    {
+      "method": "POST",
+      "path": "/customers",
+      "resource": "Customer",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customer.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/customers/{id}",
+      "resource": "Customer",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customer.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/customers/{id}",
+      "resource": "Customer",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customer.md"
+    },
+    {
+      "method": "POST",
+      "path": "/customers/custom-fields",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/customers/custom-fields",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/customers/custom-fields/{id}",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/customers/{id}/custom-fields",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/customers/custom-fields/{id}/owners",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/customers/{id}/custom-fields/values",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/customers/custom-fields/{id}",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/customers/custom-fields/f6b3ca8c-2271-4895-b417-14350e6755a7",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/customers/custom-fields/{id}",
+      "resource": "Customer Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/customers/custom-fields.md"
+    },
+    {
+      "method": "POST",
+      "path": "/promotions",
+      "resource": "Discount",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/discounts.md"
+    },
+    {
+      "method": "GET",
+      "path": "/promotions",
+      "resource": "Discount",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/discounts.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/promotions/{promotion_id}",
+      "resource": "Discount",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/discounts.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/promotions/{promotion_id}",
+      "resource": "Discount",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/discounts.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/promotions",
+      "resource": "Discount",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/discounts.md"
+    },
+    {
+      "method": "POST",
+      "path": "/Payload",
+      "resource": "Disputes",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/disputes.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/Payload",
+      "resource": "Disputes",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/disputes.md"
+    },
+    {
+      "method": "GET",
+      "path": "/Response",
+      "resource": "Disputes",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/disputes.md"
+    },
+    {
+      "method": "GET",
+      "path": "/draft_orders",
+      "resource": "Draft Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/draft-order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/draft_orders/{id}",
+      "resource": "Draft Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/draft-order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/draft_orders",
+      "resource": "Draft Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/draft-order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/draft_orders/{id}/confirm",
+      "resource": "Draft Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/draft-order.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/draft_orders/{id}",
+      "resource": "Draft Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/draft-order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/email-templates",
+      "resource": "Email Templates",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/email-templates.md"
+    },
+    {
+      "method": "GET",
+      "path": "/email-templates/{templateID}",
+      "resource": "Email Templates",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/email-templates.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/email-templates/{templateID}",
+      "resource": "Email Templates",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/email-templates.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{order_id}/fulfillment-orders",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{order_id}/fulfillment-orders/{fulfillment_order_id}",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/orders/{order_id}/fulfillment-orders/{fulfillment_order_id}",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/orders/{order_id}/fulfillment-orders/{fulfillment_order_id}",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/{order_id}/fulfillment-orders/{fulfillment_order_id}/tracking-events",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/orders/{order_id}/fulfillment-orders/{fulfillment_order_id}/tracking-events/{fulfillment_order_tracking_event_id}",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/orders/{order_id}/fulfillment-orders/{fulfillment_order_id}/tracking-events/{fulfillment_order_tracking_event_id}",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{order_id}/fulfillment-orders/{fulfillment_order_id}/tracking-events",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{order_id}/fulfillment-orders/{fulfillment_order_id}/tracking-events/{fulfillment_order_tracking_event_id}",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/fulfillment-orders/labels",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/fulfillment-orders/{fulfillment_order_id}/labels/{label_id}",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/fulfillment-orders/labels/status",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/fulfillment-orders/{fulfillment_order_id}/labels/{label_id}/download",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/fulfillment-orders/01FHZXHK8PTP9FVK99Z66GXKKK/labels/01GSB6KZXT0RTBA0CD4M4WXBSR/download",
+      "resource": "Fulfillment Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/fulfillment-order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/kits/{id}",
+      "resource": "Kit",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/kit.md"
+    },
+    {
+      "method": "GET",
+      "path": "/locations",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "GET",
+      "path": "/locations/{id}",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "GET",
+      "path": "/locations/01HTMFDH09VC6E2Q8KGTGP44D3",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "POST",
+      "path": "/locations",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/locations/priorities",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/locations/{id}",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/locations/01HTMFDH09VC6E2Q8KGTGP44D3",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/locations/{id}",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/locations/01HTMFDH09VC6E2Q8KGTGP44D3",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/locations/{id}/chosen-as-default",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/locations/01HSY0MVKDRAXEZ45B91EGVEJX/chosen-as-default",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "GET",
+      "path": "/locations/{id}/inventory-levels",
+      "resource": "Location",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/location.md"
+    },
+    {
+      "method": "GET",
+      "path": "/metafields/{owner_resource}",
+      "resource": "Metafields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/metafields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/metafields/products",
+      "resource": "Metafields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/metafields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/metafields/{id}",
+      "resource": "Metafields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/metafields.md"
+    },
+    {
+      "method": "POST",
+      "path": "/metafields",
+      "resource": "Metafields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/metafields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/metafields/{id}",
+      "resource": "Metafields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/metafields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/metafields/{id}",
+      "resource": "Metafields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/metafields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{id}",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{id}/history/values",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{id}/history/editions",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{id}/subscriptions",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/orders/{id}",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/{id}/close",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/{id}/open",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/{id}/cancel",
+      "resource": "Order",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/order.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/custom-fields",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/custom-fields",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/orders/custom-fields/{id}",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{id}/custom-fields",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/custom-fields/{id}/owners",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/orders/{id}/custom-fields/values",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/orders/custom-fields/{id}",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/orders/custom-fields/9dda74d1-5dc9-43bd-90e2-4dce3b5f3835",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/custom-fields/{id}",
+      "resource": "Order Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/orders/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/pages",
+      "resource": "Pages",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/page.md"
+    },
+    {
+      "method": "GET",
+      "path": "/pages/{pageID}",
+      "resource": "Pages",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/page.md"
+    },
+    {
+      "method": "POST",
+      "path": "/pages",
+      "resource": "Pages",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/page.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/pages/{pageID}",
+      "resource": "Pages",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/page.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/pages/{pageID}",
+      "resource": "Pages",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/page.md"
+    },
+    {
+      "method": "POST",
+      "path": "/payment_providers",
+      "resource": "Payment Provider",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/payment-provider.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/payment_providers/{payment_provider_id}",
+      "resource": "Payment Provider",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/payment-provider.md"
+    },
+    {
+      "method": "GET",
+      "path": "/payment_providers",
+      "resource": "Payment Provider",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/payment-provider.md"
+    },
+    {
+      "method": "GET",
+      "path": "/payment_providers/{payment_provider_id}",
+      "resource": "Payment Provider",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/payment-provider.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/payment_providers/{payment_provider_id}",
+      "resource": "Payment Provider",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/payment-provider.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/{product_id}/images",
+      "resource": "Product Image",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-image.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/{product_id}/images/{image_id}}",
+      "resource": "Product Image",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-image.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products/{product_id}/images",
+      "resource": "Product Image",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-image.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products/images",
+      "resource": "Product Image",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-image.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/{product_id}/images/{id}",
+      "resource": "Product Image",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-image.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/{product_id}/images/{id}",
+      "resource": "Product Image",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-image.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/{product_id}/variants",
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/{product_id}/variants/{id}",
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products/{product_id}/variants",
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/{product_id}/variants/{id}",
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/{product_id}/variants",
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/products/{product_id}/variants",
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/{product_id}/variants/{id}",
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products/{product_id}/variants/stock",
+      "resource": "Product Variant",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product-variant.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products",
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/{id}",
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/sku/{sku}",
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/sku/1234abcd",
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products",
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/{id}",
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/{id}",
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "method": "PATCH",
+      "path": "/products/stock-price",
+      "resource": "Product",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/product.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products/custom-fields",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/custom-fields",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/custom-fields/{id}",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/custom-fields/57358282-92e5-47cc-8c6e-9f0a4e7bf05f",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/{id}/custom-fields/values",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/{id}/custom-fields",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/custom-fields/{id}/owners",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/custom-fields/57358282-92e5-47cc-8c6e-9f0a4e7bf05f/owners",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/custom-fields/{id}",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/custom-fields/57358282-92e5-47cc-8c6e-9f0a4e7bf05f",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/custom-fields/{id}",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/custom-fields/1d89eb36-ae81-4c74-98b1-2a7d136ae038",
+      "resource": "Product Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/custom-fields.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products/price-tables",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/price-tables/{id}",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/price-tables",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/price-tables/{id}",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/price-tables/{id}/categories",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/price-tables/{id}/categories/{id}",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/price-tables/{id}/categories",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/price-tables/{id}/categories/{id}",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/price-tables/{id}/product-variants",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/price-tables/{id}/product-variants/{id}",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/price-tables/{id}/product-variants",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/price-tables/{id}/product-variants/{id}",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/price-tables/{id}/customers",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products/price-tables/{id}/approve-customers",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/price-tables/customers/{id}",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/price-tables/{id}/customers",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/price-tables/{id}/customers/{id}",
+      "resource": "Product Price Tables",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/price-tables/price-tables.md"
+    },
+    {
+      "method": "POST",
+      "path": "/products/variants/custom-fields",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/variants/custom-fields",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/variants/custom-fields/{id}",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/variants/{id}/custom-fields",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/variants/custom-fields/{id}/owners",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/products/variants/{id}/custom-fields/values",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/variants/custom-fields/{id}",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/products/variants/custom-fields/d6079ed1-6aaf-4392-8c10-32557e7f93f3",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/products/variants/custom-fields/{id}",
+      "resource": "Product Variant Custom Fields",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/products/variants/custom-fields.md"
+    },
+    {
+      "method": "GET",
+      "path": "/scripts",
+      "resource": "Scripts",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/script.md"
+    },
+    {
+      "method": "GET",
+      "path": "/scripts/{id}",
+      "resource": "Scripts",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/script.md"
+    },
+    {
+      "method": "POST",
+      "path": "/scripts",
+      "resource": "Scripts",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/script.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/scripts/{id}",
+      "resource": "Scripts",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/script.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/scripts/{id}",
+      "resource": "Scripts",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/script.md"
+    },
+    {
+      "method": "POST",
+      "path": "/your_callback_url",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "POST",
+      "path": "/shipping_carriers",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "GET",
+      "path": "/shipping_carriers",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "GET",
+      "path": "/shipping_carriers/{id}",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/shipping_carriers/{id}",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/shipping_carriers/{id}",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "POST",
+      "path": "/shipping_carriers/{carrier_id}/options",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "GET",
+      "path": "/shipping_carriers/{carrier_id}/options",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "GET",
+      "path": "/shipping_carriers/{carrier_id}/options/{option_id}",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/shipping_carriers/{carrier_id}/options/{option_id}",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/shipping_carriers/{carrier_id}/options/{option_id}",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{order_id}/fulfillments",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{order_id}/fulfillments/{id}",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/{order_id}/fulfillments",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/orders/{order_id}/fulfillments/{id}",
+      "resource": "Shipping Carrier",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/shipping-carrier.md"
+    },
+    {
+      "method": "GET",
+      "path": "/store",
+      "resource": "Store",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/store.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/{order_id}/transactions",
+      "resource": "Transaction",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/transaction.md"
+    },
+    {
+      "method": "POST",
+      "path": "/orders/{order_id}/transactions/{transaction_id}/events",
+      "resource": "Transaction",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/transaction.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{order_id}/transactions",
+      "resource": "Transaction",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/transaction.md"
+    },
+    {
+      "method": "GET",
+      "path": "/orders/{order_id}/transactions/{transaction_id}",
+      "resource": "Transaction",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/transaction.md"
+    },
+    {
+      "method": "GET",
+      "path": "/webhooks",
+      "resource": "Webhook",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/webhook.md"
+    },
+    {
+      "method": "GET",
+      "path": "/webhooks/{id}",
+      "resource": "Webhook",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/webhook.md"
+    },
+    {
+      "method": "POST",
+      "path": "/webhooks",
+      "resource": "Webhook",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/webhook.md"
+    },
+    {
+      "method": "PUT",
+      "path": "/webhooks/{id}",
+      "resource": "Webhook",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/webhook.md"
+    },
+    {
+      "method": "DELETE",
+      "path": "/webhooks/{id}",
+      "resource": "Webhook",
+      "url": "https://nuvemshop.dev/en-US/api/resources/2025-03/webhook.md"
+    }
+  ]
+}
