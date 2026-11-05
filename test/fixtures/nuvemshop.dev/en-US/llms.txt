@@ -1,0 +1,12 @@
+# Fixture index
+
+Synthetic content for the tests. It is not the official documentation.
+
+## Admin API
+
+- [Webhook](https://nuvemshop.dev/en-US/api/resources/2025-03/webhook.md): Fixture page about webhooks and their signature.
+- [Order](https://nuvemshop.dev/en-US/api/resources/2025-03/order.md): Fixture page about orders.
+
+## Themes
+
+- [Sections](https://nuvemshop.dev/en-US/themes/sectionable-themes/sections.md): Fixture page about theme sections.

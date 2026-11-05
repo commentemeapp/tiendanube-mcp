@@ -1,0 +1,8 @@
+node_modules/
+build/
+*.tgz
+.env
+.DS_Store
+
+# Configuração local do Claude Code
+.claude/settings.local.json
