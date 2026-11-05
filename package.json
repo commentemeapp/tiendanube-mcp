@@ -1,0 +1,59 @@
+{
+  "name": "@commenteme/tiendanube-mcp",
+  "version": "0.1.0",
+  "mcpName": "io.github.commentemeapp/tiendanube-mcp",
+  "description": "MCP server for building Tiendanube / Nuvemshop apps and integrations: live official docs, Admin API endpoints, OAuth scopes, webhook events and scaffolds",
+  "type": "module",
+  "bin": {
+    "tiendanube-mcp": "build/index.js"
+  },
+  "scripts": {
+    "build": "tsc && chmod 755 build/index.js",
+    "lint": "tsc --noEmit && tsc -p tsconfig.scripts.json",
+    "dev": "tsc --watch",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "ingerir": "tsx scripts/ingerir.ts",
+    "test": "node --test test/*.test.mjs",
+    "probar-mcp": "node scripts/probar-mcp.mjs",
+    "rastros": "node scripts/rastros.mjs",
+    "check": "npm run format:check && npm run lint && npm run build && npm test && npm run probar-mcp && npm run rastros",
+    "inspect": "npx @modelcontextprotocol/inspector build/index.js"
+  },
+  "files": [
+    "build",
+    "data",
+    "NOTICE"
+  ],
+  "keywords": [
+    "mcp",
+    "tiendanube",
+    "nuvemshop",
+    "ecommerce",
+    "oauth",
+    "webhooks",
+    "rest"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://www.npmjs.com/package/@commenteme/tiendanube-mcp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commentemeapp/tiendanube-mcp.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.130",
+    "prettier": "^3.9.10",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  }
+}
