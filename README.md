@@ -1,4 +1,4 @@
-![tiendanube-mcp · Servidor MCP para apps e integraciones en Tiendanube y Nuvemshop.](.github/assets/banner.png)
+![tiendanube-mcp · Servidor MCP para apps e integraciones en Tiendanube y Nuvemshop.](https://raw.githubusercontent.com/commentemeapp/tiendanube-mcp/main/.github/assets/banner.png)
 
 # tiendanube-mcp
 
