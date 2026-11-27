@@ -1,12 +1,12 @@
-![tiendanube-mcp · Servidor MCP para desarrollar apps e integraciones en Tiendanube y Nuvemshop](https://raw.githubusercontent.com/commentemeapp/tiendanube-mcp/main/assets/banner.png)
+![tiendanube-mcp · Servidor MCP para apps e integraciones en Tiendanube y Nuvemshop.](.github/assets/banner.png)
 
 # tiendanube-mcp
 
 **Servidor MCP para desarrollar apps e integraciones en Tiendanube y Nuvemshop.**
 
-![npm](https://img.shields.io/npm/v/@commenteme/tiendanube-mcp?labelColor=005278&color=FFBD38)
-![node](https://img.shields.io/node/v/@commenteme/tiendanube-mcp?labelColor=005278&color=FFBD38)
-![license](https://img.shields.io/npm/l/@commenteme/tiendanube-mcp?labelColor=005278&color=FFBD38)
+[![npm](https://badgen.net/npm/v/@commenteme/tiendanube-mcp?color=005278)](https://www.npmjs.com/package/@commenteme/tiendanube-mcp)
+[![node](https://badgen.net/npm/node/@commenteme/tiendanube-mcp)](https://nodejs.org)
+[![licencia](https://badgen.net/npm/license/@commenteme/tiendanube-mcp)](./LICENSE)
 
 ## Instalación
 
@@ -133,9 +133,9 @@ Corre `npm run ingerir`: baja las páginas de recursos de la versión 2025-03, e
 
 ### Ramas y publicación
 
-El trabajo nace en una rama salida de `dev` y el PR va contra `dev`. Después de probar localmente, `dev` se promueve a `main` con merge de la rama completa. El CI corre `npm run check` en Node 18, 20 y 22.
+El trabajo nace en una rama salida de `dev` y el PR va contra `dev`. Después de probar localmente, `dev` se promueve a `main` con merge de la rama completa. No hay CI en GitHub: antes de cada merge y de cada publicación corre `npm run check` en tu máquina.
 
-Para publicar, sube la versión en `package.json`, `server.json` y `CHANGELOG.md` y empuja un tag `v*`: el workflow `publish.yml` corre el gate, publica en npm con _provenance_, crea el GitHub Release y publica `server.json` en el MCP Registry. Los cambios de cada versión están en [CHANGELOG.md](CHANGELOG.md).
+Para publicar, sube la versión en `package.json`, `server.json` y `CHANGELOG.md`, haz el merge a `main`, crea el tag `v*` y, desde `main` y en una terminal interactiva (npm pide autenticarse en el navegador), corre `npm publish`. El `server.json` se publica en el MCP Registry con `mcp-publisher publish`. Los cambios de cada versión están en [CHANGELOG.md](CHANGELOG.md).
 
 ## Contribuir · Licencia
 
@@ -143,6 +143,4 @@ Abre un PR contra `dev`, con [Conventional Commits](https://www.conventionalcomm
 
 [MIT](LICENSE). Lo que el paquete trae y lo que no, en [NOTICE](NOTICE).
 
----
-
-Hecho por [commente.me](https://www.commente.me) · hablecon@commente.me
+_Hecho con amor y café por [zeluizr](https://github.com/zeluizr) y con la ayuda de [Claude](https://claude.ai/referral/Cz_UimA0NQ) ☕_
