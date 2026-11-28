@@ -4,9 +4,7 @@
 
 **Servidor MCP para desarrollar apps e integraciones en Tiendanube y Nuvemshop.**
 
-[![npm](https://badgen.net/npm/v/@commenteme/tiendanube-mcp?color=005278)](https://www.npmjs.com/package/@commenteme/tiendanube-mcp)
-[![node](https://badgen.net/npm/node/@commenteme/tiendanube-mcp)](https://nodejs.org)
-[![licencia](https://badgen.net/npm/license/@commenteme/tiendanube-mcp)](./LICENSE)
+Versión 0.1.0 · en desarrollo. Cambios en [CHANGELOG.md](CHANGELOG.md).
 
 ## Instalación
 
@@ -14,34 +12,7 @@
 claude mcp add tiendanube -- npx -y @commenteme/tiendanube-mcp
 ```
 
-Requiere Node `>= 18`. El cliente ejecuta el servidor con `npx`, así que no hace falta instalarlo. Para Claude Desktop, Cursor, Windsurf, VS Code y otros clientes, mira [Otros clientes](#otros-clientes).
-
-## Uso rápido
-
-Reinicia el cliente y pide lo que necesitas en lenguaje natural. El asistente elige la herramienta:
-
-- "Que scope necesita `POST /orders/{id}/fulfillment-orders/{id}/tracking-events`?"
-- "Arma el receptor de webhooks para `order/paid` y `app/uninstalled` con la verificación de firma"
-- "Genera el flujo de instalación OAuth del app 1234"
-- "Que eventos de webhook hay para fulfillment orders?"
-- "Cómo funcionan los slots del checkout en NubeSDK?"
-
-## Que incluye
-
-Para quien escribe apps de partners e integraciones propias: Admin API, OAuth, webhooks, NubeSDK, apps del Admin y temas.
-
-- **Documentación oficial en vivo**: `search-docs` y `read-doc` leen las páginas Markdown que nuvemshop.dev publica para agentes, en inglés, portugués o español. Cada respuesta trae la URL de la página.
-- **Índices de la Admin API 2025-03, sin red**: 228 endpoints con el scope que piden y su página de referencia, los 18 grupos de scopes OAuth y los 57 eventos de webhook, con los tres de privacidad obligatorios aparte.
-- **Scaffolding**: el receptor de webhooks (firma `x-linkedstore-hmac-sha256` sobre el body crudo, `200` inmediato y una prueba) y el flujo OAuth (redirección con `state` y canje del code con body JSON). Las herramientas devuelven los archivos (ruta y contenido) para que el cliente los escriba.
-- **Sin credenciales**: no pide token de tienda, no escribe en disco y solo se conecta a nuvemshop.dev y tiendanube.dev.
-
-Funciona con Claude Code, Claude Desktop, Codex, Cursor, Gemini CLI, GitHub Copilot, VS Code, Windsurf y cualquier cliente MCP con transporte stdio.
-
-## Por que existe
-
-Tiendanube tiene un [Admin MCP](https://nuvemshop.dev/en-US/ai-agents/admin-mcp.md) oficial para operar una tienda conversando: crear productos, ajustar stock y precios, ver pedidos, manejar cupones y promociones. Si lo que necesitas es operar una tienda, ocupa ese. Para quien construye sobre la plataforma no había servidor: este responde que endpoint, que scope y que evento usar, y entrega el código de las partes que todo app repite. Va junto con las skills de [tiendanube-skills](https://github.com/commentemeapp/tiendanube-skills).
-
-## Documentación
+El cliente ejecuta el servidor con `npx`, así que no hace falta instalarlo. Para Claude Desktop, Cursor, Windsurf, VS Code y otros clientes, mira [Otros clientes](#otros-clientes).
 
 ### Otros clientes
 
@@ -96,6 +67,31 @@ gemini mcp add -s user tiendanube npx -y @commenteme/tiendanube-mcp
 
 Cualquier cliente con transporte `stdio` sirve: el comando es `npx` y los argumentos, `-y @commenteme/tiendanube-mcp`. En Claude Code, `--scope project` deja la configuración en `.mcp.json` para compartirla con el equipo.
 
+## Uso
+
+Reinicia el cliente y pide lo que necesitas en lenguaje natural. El asistente elige la herramienta:
+
+- "Que scope necesita `POST /orders/{id}/fulfillment-orders/{id}/tracking-events`?"
+- "Arma el receptor de webhooks para `order/paid` y `app/uninstalled` con la verificación de firma"
+- "Genera el flujo de instalación OAuth del app 1234"
+- "Que eventos de webhook hay para fulfillment orders?"
+- "Como funcionan los slots del checkout en NubeSDK?"
+
+### Que incluye
+
+Para quien escribe apps de partners e integraciones propias: Admin API, OAuth, webhooks, NubeSDK, apps del Admin y temas.
+
+- **Documentación oficial en vivo**: `search-docs` y `read-doc` leen las páginas Markdown que nuvemshop.dev publica para agentes, en inglés, portugués o español. Cada respuesta trae la URL de la página.
+- **Índices de la Admin API 2025-03, sin red**: 228 endpoints con el scope que piden y su página de referencia, los 18 grupos de scopes OAuth y los 57 eventos de webhook, con los tres de privacidad obligatorios aparte.
+- **Scaffolding**: el receptor de webhooks (firma `x-linkedstore-hmac-sha256` sobre el body crudo, `200` inmediato y una prueba) y el flujo OAuth (redirección con `state` y canje del code con body JSON). Las herramientas devuelven los archivos (ruta y contenido) para que el cliente los escriba.
+- **Sin credenciales**: no pide token de tienda, no escribe en disco y solo se conecta a nuvemshop.dev y tiendanube.dev.
+
+Funciona con Claude Code, Claude Desktop, Codex, Cursor, Gemini CLI, GitHub Copilot, VS Code, Windsurf y cualquier cliente MCP con transporte stdio.
+
+### Por que existe
+
+Tiendanube tiene un [Admin MCP](https://nuvemshop.dev/en-US/ai-agents/admin-mcp.md) oficial para operar una tienda conversando: crear productos, ajustar stock y precios, ver pedidos, manejar cupones y promociones. Si lo que necesitas es operar una tienda, ocupa ese. Para quien construye sobre la plataforma no había servidor: este responde que endpoint, que scope y que evento usar, y entrega el código de las partes que todo app repite. Va junto con las skills de [tiendanube-skills](https://github.com/commentemeapp/tiendanube-skills).
+
 ### Herramientas
 
 | Herramienta                | Que hace                                                                                                         | Red |
@@ -112,7 +108,13 @@ Cualquier cliente con transporte `stdio` sirve: el comando es `npx` y los argume
 
 La documentación de nuvemshop.dev no tiene licencia abierta, así que el paquete no la trae: `search-docs` y `read-doc` la leen en vivo y la guardan solo en memoria mientras corre el proceso. Los archivos de `data/` son índices de hechos armados por `scripts/ingerir.ts` desde esas páginas: métodos, rutas, nombres de recursos, de scopes y de eventos, y el enlace a cada página. Ningún texto de la documentación entra en el paquete. Las contradicciones que encontramos en la documentación están en [tiendanube-skills/docs/divergencias.md](https://github.com/commentemeapp/tiendanube-skills/blob/main/docs/divergencias.md).
 
-### Desarrollo
+## Requisitos
+
+- Node `>= 18`.
+- Un cliente MCP con transporte stdio.
+- No pide credenciales ni token de tienda.
+
+## Desarrollo
 
 ```bash
 git clone https://github.com/commentemeapp/tiendanube-mcp.git
@@ -137,10 +139,16 @@ El trabajo nace en una rama salida de `dev` y el PR va contra `dev`. Después de
 
 Para publicar, sube la versión en `package.json`, `server.json` y `CHANGELOG.md`, haz el merge a `main`, crea el tag `v*` y, desde `main` y en una terminal interactiva (npm pide autenticarse en el navegador), corre `npm publish`. El `server.json` se publica en el MCP Registry con `mcp-publisher publish`. Los cambios de cada versión están en [CHANGELOG.md](CHANGELOG.md).
 
-## Contribuir · Licencia
+### Contribuir
 
 Abre un PR contra `dev`, con [Conventional Commits](https://www.conventionalcommits.org/es/v1.0.0/) y `npm run check` en verde.
 
-[MIT](LICENSE). Lo que el paquete trae y lo que no, en [NOTICE](NOTICE).
+## Licencia
+
+[MIT](./LICENSE). Lo que el paquete trae y lo que no, en [NOTICE](NOTICE).
+
+Contacto: hablecon@commente.me
+
+---
 
 _Hecho con amor y café por [zeluizr](https://github.com/zeluizr) y con la ayuda de [Claude](https://claude.ai/referral/Cz_UimA0NQ) ☕_
